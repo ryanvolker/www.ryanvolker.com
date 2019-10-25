@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Te",
+				"Text"
+			],
+			[
+				"In",
+				"Input"
+			],
+			[
+				"L",
+				"Library"
+			],
+			[
+				"Selec",
+				"Select_GreenPlus"
+			],
+			[
+				"Uplo",
+				"upload-file-input"
+			],
+			[
+				"sl",
+				"sleep"
+			],
+			[
+				"sle",
+				"Select"
+			],
+			[
+				"S",
+				"Select"
+			],
+			[
+				"T",
+				"Term"
+			],
+			[
+				"b",
+				"Booking"
+			],
+			[
+				"C",
+				"Correspondence"
+			],
+			[
+				"te",
+				"testCall"
+			],
+			[
+				"s",
+				"sleep"
+			],
+			[
+				"D",
+				"Dropdown"
+			],
+			[
+				"e",
+				"Element"
+			],
+			[
+				"CLICK",
+				"CLICK_CLOSE"
+			],
+			[
+				"CL",
+				"Click"
+			],
+			[
+				"THIS",
+				"_THIS_IS_A_LASTNAME"
+			],
+			[
+				"sec",
+				"seconds"
+			],
+			[
+				"R",
+				"Resource"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"Main css.css\">\n\t\t\n\t\t<div class=\"topnav\">\n\t\t\t  <a class=\"active\" href=\"#home\">Home</a>\n\t\t\t  <a href=\"#news\">News</a>\n\t\t\t  <a href=\"#contact\">Contact</a>\n\t\t\t  <a href=\"#about\">About</a>\n\t\t</div>\n\t</head>\n\n\t<body>\n\tContent of the document......\n\t<div>\n\t\tSection 1\n\n\t</div>\n\t\n\t<div>\n\t\t<p> Section 2 </p>\n\n\t</div>\n\n\t</body>\n\n</html>",
+			"file": "Main Page.html",
+			"file_size": 428,
+			"file_write_time": 132161571569875767,
+			"settings":
+			{
+				"buffer_size": 405,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Main CSS.css",
+			"settings":
+			{
+				"buffer_size": 514,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git:",
+		"selected_items":
+		[
+			[
+				"git:",
+				"Git: Commit"
+			],
+			[
+				"git:p",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Merge"
+			],
+			[
+				"GIT",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"Package Control",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"robo",
+				"Robot Framework: Create Database"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rvolker/Desktop/StarRez Folder/JavaScript Practice/Main CSS",
+		"/C/Users/rvolker/Desktop/StarRez Folder/JavaScript Practice/practicefile.html",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Login/login.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Dynamic List/Dynamic List.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/test/debug.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/RUN.bat",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Correspondence/Correspondence.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Booking/Booking.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Meal Plan/Meal Plan.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Entry/Entry.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Root.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/CustomFun.py",
+		"/C/Users/rvolker/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/NewRoomSpace/NewRoomSpace.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Meal Plan/Root.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Note/Note.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Application/CustomFun.py",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Correspondence/Root.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/NewRoomSpace/Root.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Booking/Root.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Dynamic List/Root.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Application/Application.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Note/Root.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/log.html",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Application/Root.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Entry/Application",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/New Application/Root.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/New Application/Application.txt",
+		"/C/Users/rvolker/Desktop/StarRez Folder/Automation/RFtest/lib/Entry/Root.txt",
+		"/C/Users/rvolker/Desktop/Ryan's StarRez Folder/Automation/RFtest/lib/Login/login.txt",
+		"/C/Users/rvolker/Desktop/Ryan's StarRez Folder/Automation/RFtest/test/debug.txt",
+		"/C/Users/rvolker/Desktop/Ryan's StarRez Folder/Automation/RFtest/lib/Root.txt",
+		"/C/Users/rvolker/Desktop/Ryan's StarRez Folder/Automation/RFtest/lib/Login/Root.txt",
+		"/C/Users/rvolker/Desktop/Ryan's StarRez Folder/Automation/Test.robot",
+		"/C/Users/rvolker/AppData/Roaming/Sublime Text 3/Packages/Robot Framework Assistant/Robot.sublime-build",
+		"/C/Users/rvolker/AppData/Roaming/Sublime Text 3/Packages/User/Robot.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-e",
+			"-c",
+			"-e",
+			"-c",
+			"-e",
+			"-c",
+			"-e",
+			"-c",
+			"-e",
+			"-c",
+			"-e",
+			"-c",
+			"-e",
+			"div",
+			"-n",
+			"-c",
+			"-e",
+			"-c",
+			"-e",
+			"-c",
+			"-e",
+			"-i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Main Page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Main CSS.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Test Site Project.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
